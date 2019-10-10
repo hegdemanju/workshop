@@ -1,0 +1,5 @@
+git branches 
+to check how many brnaches are there in ur git repo
+use #git branch to check which brnach u are in
+to create a new branch use:-> #git chekcout -b "new branch name"
+to switch btwn branches :-> #git 

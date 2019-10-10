@@ -1,0 +1,6 @@
+BASIC GIT COMMANDS
+to create a file we used echo space "whatever you want" >> filename
+to check git version #git --version
+to commit the changes  and display the message #git commit -m "whatever you want"
+to check the status #git status 
+to add a file to statging stage # git add file name
